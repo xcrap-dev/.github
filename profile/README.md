@@ -11,9 +11,3 @@ This project also has a SaaS platform called **[Xcrap Cloud](https://xcrap.cloud
 All our projects are open source and licensed under the MIT license, contribute with us!
 
 > Marcuth, 2025
-
----
-
-## Stats
-
-<img src="https://profile-counter.glitch.me/xcrap-cloud/count.svg" alt="visitor count">
